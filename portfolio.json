@@ -1,0 +1,20 @@
+{
+    "holdings": {
+        "VTI": {
+            "shares": 0.0
+        },
+        "VXUS": {
+            "shares": 0.0
+        },
+        "BND": {
+            "shares": 0.0
+        },
+        "VNQ": {
+            "shares": 0.0
+        },
+        "VIG": {
+            "shares": 0.0
+        }
+    },
+    "cash_available": 0.0
+}
