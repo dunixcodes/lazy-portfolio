@@ -51,7 +51,7 @@ The **Lazy Portfolio Rebalancer** is a Python script designed to help you automa
 
 3. **Install dependencies**:
 
-   Ensure your `requirements.txt` includes `yfinance`.
+   Ensure you install `yfinance`.
 
 ## Usage
 
