@@ -38,8 +38,8 @@ The **Lazy Portfolio Rebalancer** is a Python script designed to help you automa
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/dunixcodes/etf-portfolio-rebalancer.git
-   cd etf-portfolio-rebalancer
+   git clone https://github.com/dunixcodes/lazy-portfolio.git
+   cd lazy-portfolio
    ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -67,19 +67,19 @@ Run the script using the command line to manage and rebalance your ETF portfolio
 1. **Add initial cash to the portfolio**:
 
    ```bash
-   python rebalance.py --cash 1000
+   python lazy_portfolio_balancer.py --cash 1000
    ```
 
 2. **Set a specific cash amount without rebalancing**:
 
    ```bash
-   python rebalance.py --set-cash 5000
+   python lazy_portfolio_balancer.py --set-cash 5000
    ```
 
 3. **Rebalance with a specified amount of cash**:
 
    ```bash
-   python rebalance.py --cash 2000
+   python lazy_portfolio_balancer.py --cash 2000
    ```
 
 ### Output
