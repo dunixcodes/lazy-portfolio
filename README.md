@@ -38,7 +38,7 @@ The **Lazy Portfolio Rebalancer** is a Python script designed to help you automa
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/etf-portfolio-rebalancer.git
+   git clone https://github.com/dunixcodes/etf-portfolio-rebalancer.git
    cd etf-portfolio-rebalancer
    ```
 
